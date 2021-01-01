@@ -12,6 +12,7 @@ git:
 script:
   - yarn build
 notifications:
+  slack: deploys-workspace:XLMgSfa8d86YRkb93JwEQhUX
   email:
     recipients:
       - bvargas7@umsa.bo
